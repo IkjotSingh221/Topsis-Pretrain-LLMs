@@ -10,7 +10,7 @@
 - h2oai/h2o-danube-1.8b-chat
 - HuggingFaceH4/zephyr-7b-beta
 
-## Evaluation parameters:
+## Evaluation Parameters
 - Bert Score (precision, recall, f1 score)
 - Bleu Score
 
