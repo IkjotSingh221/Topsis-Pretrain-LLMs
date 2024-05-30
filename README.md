@@ -1,9 +1,4 @@
 # topis-pretrain-102116071
-## Ikjot Singh
-### 3CS11
-### 102116071
-
-
 ## Models Tested
 - codellama/CodeLlama-7b-hf
 - mistralai/Mistral-7B-v0.1
